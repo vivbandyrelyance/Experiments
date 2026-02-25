@@ -1,0 +1,5 @@
+langchain>=0.3
+langchain-anthropic>=0.3
+langchain-core>=0.3
+simple-salesforce>=1.12
+python-dotenv>=1.0
